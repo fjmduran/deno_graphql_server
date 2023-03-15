@@ -1,0 +1,156 @@
+[
+  {
+    "id": "algoritmia-fizzbuzz",
+    "title": "Algoritmo 'Fizz Buzz'",
+    "img": "https://firebasestorage.googleapis.com/v0/b/siguientenivel150116.appspot.com/o/Blog%2Falgoritmia.jpg?alt=media&token=a3563f5a-7c3d-413a-a4fe-a9e897ada2f9",
+    "description": "Explicación del típico ejercicio de algoritmia 'Fizz Buzz'",
+    "tags": ["Algoritmia"],
+    "date": "2019-09-28T09:19:23.511Z",
+    "html": "/blog/algoritmia-fizzbuzz",
+    "metaTags": {
+      "title": "Algoritmo 'Fizz Buzz'",
+      "img": "https://firebasestorage.googleapis.com/v0/b/siguientenivel150116.appspot.com/o/Blog%2Falgoritmia.jpg?alt=media&token=a3563f5a-7c3d-413a-a4fe-a9e897ada2f9",
+      "description": "Explicación del típico ejercicio de algoritmia 'Fizz Buzz'"
+    }
+  },
+  {
+    "id": "algoritmia-stack-parentesis",
+    "title": "Algoritmo paréntesis válidos",
+    "img": "https://firebasestorage.googleapis.com/v0/b/siguientenivel150116.appspot.com/o/Blog%2Falgoritmia.jpg?alt=media&token=a3563f5a-7c3d-413a-a4fe-a9e897ada2f9",
+    "description": "Explicación del típico ejercicio de algoritmia de validación de paréntesis solicitado en muchas entrevistas para desarrollador de software",
+    "tags": ["Algoritmia"],
+    "date": "2019-10-05T09:10:23.511Z",
+    "html": "/blog/algoritmia-stack-parentesis",
+    "metaTags": {
+      "title": "Algoritmo paréntesis válidos",
+      "img": "https://firebasestorage.googleapis.com/v0/b/siguientenivel150116.appspot.com/o/Blog%2Falgoritmia.jpg?alt=media&token=a3563f5a-7c3d-413a-a4fe-a9e897ada2f9",
+      "description": "Explicación del típico ejercicio de algoritmia de validación de paréntesis solicitado en muchas entrevistas para desarrollador de software"
+    }
+  },
+  {
+    "id": "migrar-access-mysql",
+    "title": "Cómo migrar datos de Access a MySQL",
+    "img": "https://firebasestorage.googleapis.com/v0/b/siguientenivel150116.appspot.com/o/Blog%2Faccess-mysql.jpg?alt=media&token=48d34904-d579-4a15-89df-97b867a219c5",
+    "description": "Migrar datos de Access a MySQL sin morir en el intento",
+    "tags": ["Bases de datos"],
+    "date": "2019-10-13T09:07:42.511Z",
+    "html": "/blog/migrar-access-mysql",
+    "metaTags": {
+      "title": "Cómo migrar datos de Access a MySQL",
+      "img": "https://firebasestorage.googleapis.com/v0/b/siguientenivel150116.appspot.com/o/Blog%2Faccess-mysql.jpg?alt=media&token=48d34904-d579-4a15-89df-97b867a219c5",
+      "description": "Migrar datos de Access a MySQL sin morir en el intento"
+    }
+  },
+  {
+    "id": "sql",
+    "title": "Ayuda y recursos SQL",
+    "img": "https://github.com/fjmduran/images/blob/master/blog/normalizacion-bdd/cover.jpg?raw=true",
+    "description": "Algunas sintaxis SQL frecuentes",
+    "tags": ["Bases de datos"],
+    "date": "2019-11-09T09:22:42.511Z",
+    "html": "/blog/sql",
+    "metaTags": {
+      "title": "Ayuda y recursos SQL",
+      "img": "https://github.com/fjmduran/images/blob/master/blog/normalizacion-bdd/cover.jpg?raw=true",
+      "description": "Algunas sintaxis SQL frecuentes"
+    }
+  },
+  {
+    "id": "angular_9_a_10",
+    "title": "Migrar de Angular 9 a 10",
+    "img": "https://github.com/fjmduran/images/blob/master/blog/angular.jpg?raw=true",
+    "description": "En este artículo te explicaré como migrar tus proyectos de Angular 9 a Angular 10 con los mínimos pasos posibles.",
+    "tags": ["Angular"],
+    "date": "2019-12-28T18:25:43.511Z",
+    "html": "/blog/angular_9_a_10",
+    "metaTags": {
+      "title": "Migrar de Angular 9 a 10",
+      "img": "https://github.com/fjmduran/images/blob/master/blog/angular.jpg?raw=true",
+      "description": "En este artículo te explicaré como migrar tus proyectos de Angular 9 a Angular 10 con los mínimos pasos posibles."
+    }
+  },
+  {
+    "id": "recursos_imagenes",
+    "title": "Herramientas gratuitas para trabajar con imágenes",
+    "img": "https://firebasestorage.googleapis.com/v0/b/siguientenivel150116.appspot.com/o/Blog%2Fimagenes.jpg?alt=media&token=cc1662e7-5409-413c-96bf-7def40a17b74",
+    "description": "Varios sitios para que obtengas imágenes libres de derechos de autor, puedas comprimir tus imágenes y eliminar el fondo de las mismas. Todo ello gratis.",
+    "tags": ["Recursos web"],
+    "date": "2020-09-05T21:22:33.511Z",
+    "html": "/blog/recursos_imagenes",
+    "metaTags": {
+      "title": "Herramientas gratuitas para trabajar con imágenes",
+      "img": "https://firebasestorage.googleapis.com/v0/b/siguientenivel150116.appspot.com/o/Blog%2Fimagenes.jpg?alt=media&token=cc1662e7-5409-413c-96bf-7def40a17b74",
+      "description": "Varios sitios para que obtengas imágenes libres de derechos de autor, puedas comprimir tus imágenes y eliminar el fondo de las mismas. Todo ello gratis."
+    }
+  },
+  {
+    "id": "meta_tags",
+    "title": "Domina los Meta Tags en las RRSS",
+    "img": "https://firebasestorage.googleapis.com/v0/b/siguientenivel150116.appspot.com/o/Blog%2FmetaTags.png?alt=media&token=c5e2f313-c756-462f-8c96-10e05658360c",
+    "description": "En este artículo te enseñaré cómo manejar los Meta Tags. Importantísimo para el SEO y una correcta visualización en las redes sociales para mejorar su viralización",
+    "tags": ["Recursos web"],
+    "date": "2020-07-12T17:47:43.511Z",
+    "html": "/blog/meta_tags",
+    "metaTags": {
+      "title": "Domina los Meta Tags en las RRSS",
+      "img": "https://firebasestorage.googleapis.com/v0/b/siguientenivel150116.appspot.com/o/Blog%2FmetaTags.png?alt=media&token=c5e2f313-c756-462f-8c96-10e05658360c",
+      "description": "En este artículo te enseñaré cómo manejar los Meta Tags. Importantísimo para el SEO y una correcta visualización en las redes sociales para mejorar su viralización"
+    }
+  },
+  {
+    "id": "angular10a11",
+    "title": "Migrar proyecto de Angular 10 a Angular 11",
+    "img": "https://firebasestorage.googleapis.com/v0/b/siguientenivel150116.appspot.com/o/Blog%2Fangular10a11.png?alt=media&token=199c43ce-c233-4648-99c0-576f3a9e03ea",
+    "description": "En este artículo te explicaré cómo migrar tus proyectos de Angular 10 a Angular 11 con los mínimos pasos posibles y te contaré qué trae de nuevo Angular 11.",
+    "tags": ["Angular"],
+    "date": "2020-11-15T17:47:43.511Z",
+    "html": "/blog/angular10a11",
+    "metaTags": {
+      "title": "Migrar proyecto de Angular 10 a Angular 11",
+      "img": "https://firebasestorage.googleapis.com/v0/b/siguientenivel150116.appspot.com/o/Blog%2Fangular10a11.png?alt=media&token=199c43ce-c233-4648-99c0-576f3a9e03ea",
+      "description": "En este artículo te explicaré cómo migrar tus proyectos de Angular 10 a Angular 11 con los mínimos pasos posibles y te contaré qué trae de nuevo Angular 11."
+    }
+  },
+  {
+    "id": "custom-material",
+    "title": "Personaliza el estilo de Angular Material",
+    "img": "https://firebasestorage.googleapis.com/v0/b/siguientenivel150116.appspot.com/o/Blog%2Fcustom_material.png?alt=media&token=28e5e3c1-6462-4845-933b-963bda9d1880",
+    "description": "En este artículo te explicaré cómo cambiar los colores predeterminados de un tema de Angular Material e incluso definir un tema personalizado",
+    "tags": ["Angular"],
+    "date": "2020-11-07T11:03:43.511Z",
+    "html": "/blog/custom-material",
+    "metaTags": {
+      "title": "Personaliza el estilo de Angular Material",
+      "img": "https://firebasestorage.googleapis.com/v0/b/siguientenivel150116.appspot.com/o/Blog%2Fcustom_material.png?alt=media&token=28e5e3c1-6462-4845-933b-963bda9d1880",
+      "description": "En este artículo te explicaré cómo cambiar los colores predeterminados de un tema de Angular Material e incluso definir un tema personalizado"
+    }
+  },
+  {
+    "id": "fotos-google",
+    "title": "Usa tus fotos de Google como recurso web",
+    "img": "https://firebasestorage.googleapis.com/v0/b/siguientenivel150116.appspot.com/o/Blog%2Fgoogle_fotos.png?alt=media&token=83139a8e-d6c4-4d10-b0d0-319baa58e04b",
+    "description": "En este artículo te explicaré cómo usar las fotos de tu Google Fotos como un recurso web.",
+    "tags": ["Recursos web"],
+    "date": "2020-01-12T08:57:43.511Z",
+    "html": "/blog/fotos-google",
+    "metaTags": {
+      "title": "Usa tus fotos de Google como recurso web. Te enseñaré como usar fotos de Google Fotos como un recurso web. Usa Google Fotos como un servidor de fotos para tu web",
+      "img": "https://firebasestorage.googleapis.com/v0/b/siguientenivel150116.appspot.com/o/Blog%2Fgoogle_fotos.png?alt=media&token=83139a8e-d6c4-4d10-b0d0-319baa58e04b",
+      "description": "Usa tus fotos de Google como recurso web. Te enseñaré como usar fotos de Google Fotos como un recurso web. Usa Google Fotos como un servidor de fotos para tu web"
+    }
+  },
+  {
+    "id": "codigos-estado-http",
+    "title": "Códigos de estado de respuestas HTTP",
+    "img": "https://firebasestorage.googleapis.com/v0/b/siguientenivel150116.appspot.com/o/Blog%2FstatusCodeHTTP.webp?alt=media&token=9ed2a061-ee9b-415d-a7e3-2bc8daf39571",
+    "description": "En este artículo te explicaré qué son y cómo interpretar los códigos de estado de respuesta HTTP.",
+    "tags": ["Informática"],
+    "date": "2020-10-10T20:31:43.511Z",
+    "html": "/blog/codigos-estado-http",
+    "metaTags": {
+      "title": "Conoce qué son los códigos de estado de respuesta HTTP cuál es el significado de cada uno de ellos y aprende a interpretarlos",
+      "img": "https://firebasestorage.googleapis.com/v0/b/siguientenivel150116.appspot.com/o/Blog%2FstatusCodeHTTP.webp?alt=media&token=9ed2a061-ee9b-415d-a7e3-2bc8daf39571",
+      "description": "Conoce qué son los códigos de estado de respuesta HTTP cuál es el significado de cada uno de ellos y aprende a interpretarlos"
+    }
+  }
+]
